@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @NMsby
+/src/backend/database.py      @NMsby
+/src/backend/routers/auth.py  @NMsby
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @NMsby
